@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "zip_url": "https://YOUR-SITE.netlify.app/extension.zip",
+  "version": "1.0.1",
+  "zip_url": "https://euphonious-hummingbird-9ef8a8.netlify.app/extension.zip",
   "force": false,
   "notes": "Initial release"
 }
