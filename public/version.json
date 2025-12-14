@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "zip_url": "https://YOUR-SITE.netlify.app/extension.zip",
+  "force": false,
+  "notes": "Initial release"
+}
