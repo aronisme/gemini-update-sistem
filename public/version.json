@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "zip_url": "https://euphonious-hummingbird-9ef8a8.netlify.app/geminiPrompter.zip",
   "force": false,
-  "notes": "Full Upgrade"
+  "notes": "v1.1.0: Renamed to Gemini Prompt Generator, added Groq AI support, Footage mode improvements, and UI refinements."
 }
